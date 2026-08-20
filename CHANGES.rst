@@ -6,6 +6,18 @@ Release history
 v4.7.1 (2026-08-20)
 ===================
 
+Continuous Integration
+----------------------
+
+* Always use PR target branch as benchmark reference (`#2317`_, `fafcb36`_)
+
+.. _#2317: https://github.com/CS-SI/eodag/pull/2317
+.. _fafcb36: https://github.com/CS-SI/eodag/commit/fafcb3663925e5fd8b85d5d8845b787bc00b81c3
+
+
+v4.7.1 (2026-08-20)
+===================
+
 Performance Improvements
 ------------------------
 
